@@ -35,6 +35,8 @@
 #include <botan/hkdf.h>
 #include <botan/hmac.h>
 #include <botan/sha160.h>
+#include <botan/cipher_mode.h>
+#include <botan/filters.h>
 #endif
 
 #include <QCryptographicHash>
